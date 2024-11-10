@@ -1,1 +1,0 @@
-# decleare_exam
